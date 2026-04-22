@@ -38,6 +38,7 @@ CONFIG_PACKAGE_frpc=y
 CONFIG_PACKAGE_frps=y
 CONFIG_PACKAGE_geoview=y
 CONFIG_PACKAGE_haproxy=y
+CONFIG_PACKAGE_hostapd=y
 # CONFIG_PACKAGE_jq is not set
 CONFIG_PACKAGE_kmod-br-netfilter=m
 CONFIG_PACKAGE_kmod-crypto-acompress=m
@@ -143,6 +144,8 @@ CONFIG_PACKAGE_v2ray-geosite=y
 CONFIG_PACKAGE_v2ray-plugin=y
 # CONFIG_PACKAGE_vlmcsd is not set
 # CONFIG_PACKAGE_vsftpd is not set
+CONFIG_PACKAGE_wpa-supplicant=y
+# CONFIG_PACKAGE_wpad-openssl is not set
 CONFIG_PACKAGE_wsdd2=y
 # CONFIG_PACKAGE_xray-core is not set
 CONFIG_PACKAGE_zerotier=y
