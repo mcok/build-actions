@@ -26,7 +26,7 @@ on:
       CONFIG_FILE:
         description: '请选择配置文件'
         required: true
-        default: 'x86_64'
+        default: 'armsr_rootfs_tar_gz'
         type: choice
         options:
           - 'armsr_rootfs_tar_gz'
